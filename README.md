@@ -1,2 +1,2 @@
 # Background-Generator
- To to creat a random background linear gradient.
+ Tool to create a random background linear gradient.
